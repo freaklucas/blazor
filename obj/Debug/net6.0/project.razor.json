@@ -13,37 +13,37 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1723781543,
+        "HashCode": -821190446,
         "Kind": "Components.Component",
-        "Name": "projects.Pages.Counter",
+        "Name": "projects.Pages.FetchData",
         "AssemblyName": "projects",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "FetchData"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "projects.Pages.Counter",
-          "Common.TypeNameIdentifier": "Counter",
+          "Common.TypeName": "projects.Pages.FetchData",
+          "Common.TypeNameIdentifier": "FetchData",
           "Common.TypeNamespace": "projects.Pages",
           "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": -2091046628,
+        "HashCode": 1661064964,
         "Kind": "Components.Component",
-        "Name": "projects.Pages.Counter",
+        "Name": "projects.Pages.FetchData",
         "AssemblyName": "projects",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "projects.Pages.Counter"
+            "TagName": "projects.Pages.FetchData"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "projects.Pages.Counter",
-          "Common.TypeNameIdentifier": "Counter",
+          "Common.TypeName": "projects.Pages.FetchData",
+          "Common.TypeNameIdentifier": "FetchData",
           "Common.TypeNamespace": "projects.Pages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
@@ -87,37 +87,59 @@
         }
       },
       {
-        "HashCode": -821190446,
+        "HashCode": 272714969,
         "Kind": "Components.Component",
-        "Name": "projects.Pages.FetchData",
+        "Name": "projects.Pages.Counter",
         "AssemblyName": "projects",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "FetchData"
+            "TagName": "Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
           }
         ],
         "Metadata": {
-          "Common.TypeName": "projects.Pages.FetchData",
-          "Common.TypeNameIdentifier": "FetchData",
+          "Common.TypeName": "projects.Pages.Counter",
+          "Common.TypeNameIdentifier": "Counter",
           "Common.TypeNamespace": "projects.Pages",
           "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": 1661064964,
+        "HashCode": 1016522208,
         "Kind": "Components.Component",
-        "Name": "projects.Pages.FetchData",
+        "Name": "projects.Pages.Counter",
         "AssemblyName": "projects",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "projects.Pages.FetchData"
+            "TagName": "projects.Pages.Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
           }
         ],
         "Metadata": {
-          "Common.TypeName": "projects.Pages.FetchData",
-          "Common.TypeNameIdentifier": "FetchData",
+          "Common.TypeName": "projects.Pages.Counter",
+          "Common.TypeNameIdentifier": "Counter",
           "Common.TypeNamespace": "projects.Pages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
