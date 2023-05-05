@@ -50,43 +50,6 @@
         }
       },
       {
-        "HashCode": 598360066,
-        "Kind": "Components.Component",
-        "Name": "projects.Pages.Index",
-        "AssemblyName": "projects",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "projects.Pages.Index",
-          "Common.TypeNameIdentifier": "Index",
-          "Common.TypeNamespace": "projects.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -1878773271,
-        "Kind": "Components.Component",
-        "Name": "projects.Pages.Index",
-        "AssemblyName": "projects",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "projects.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "projects.Pages.Index",
-          "Common.TypeNameIdentifier": "Index",
-          "Common.TypeNamespace": "projects.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
         "HashCode": 272714969,
         "Kind": "Components.Component",
         "Name": "projects.Pages.Counter",
@@ -140,6 +103,80 @@
         "Metadata": {
           "Common.TypeName": "projects.Pages.Counter",
           "Common.TypeNameIdentifier": "Counter",
+          "Common.TypeNamespace": "projects.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 598360066,
+        "Kind": "Components.Component",
+        "Name": "projects.Pages.Index",
+        "AssemblyName": "projects",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "projects.Pages.Index",
+          "Common.TypeNameIdentifier": "Index",
+          "Common.TypeNamespace": "projects.Pages",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1878773271,
+        "Kind": "Components.Component",
+        "Name": "projects.Pages.Index",
+        "AssemblyName": "projects",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "projects.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "projects.Pages.Index",
+          "Common.TypeNameIdentifier": "Index",
+          "Common.TypeNamespace": "projects.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -307127921,
+        "Kind": "Components.Component",
+        "Name": "projects.Pages.Todo",
+        "AssemblyName": "projects",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "projects.Pages.Todo",
+          "Common.TypeNameIdentifier": "Todo",
+          "Common.TypeNamespace": "projects.Pages",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1358327288,
+        "Kind": "Components.Component",
+        "Name": "projects.Pages.Todo",
+        "AssemblyName": "projects",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "projects.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "projects.Pages.Todo",
+          "Common.TypeNameIdentifier": "Todo",
           "Common.TypeNamespace": "projects.Pages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
@@ -18798,6 +18835,11 @@
     {
       "FilePath": "c:\\Users\\lucas\\projects\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\lucas\\projects\\Pages\\Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
       "FileKind": "component"
     }
   ],
