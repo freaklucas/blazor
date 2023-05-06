@@ -109,6 +109,43 @@
         }
       },
       {
+        "HashCode": 1595073075,
+        "Kind": "Components.Component",
+        "Name": "projects.Pages.FetchData",
+        "AssemblyName": "projects",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "projects.Pages.FetchData",
+          "Common.TypeNameIdentifier": "FetchData",
+          "Common.TypeNamespace": "projects.Pages",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1825375721,
+        "Kind": "Components.Component",
+        "Name": "projects.Pages.FetchData",
+        "AssemblyName": "projects",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "projects.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "projects.Pages.FetchData",
+          "Common.TypeNameIdentifier": "FetchData",
+          "Common.TypeNamespace": "projects.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
         "HashCode": 1589585573,
         "Kind": "Components.Component",
         "Name": "projects.Pages.Index",
@@ -146,37 +183,37 @@
         }
       },
       {
-        "HashCode": 1595073075,
+        "HashCode": -405130774,
         "Kind": "Components.Component",
-        "Name": "projects.Pages.FetchData",
+        "Name": "projects.Pages.PizzaBrowser",
         "AssemblyName": "projects",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "FetchData"
+            "TagName": "PizzaBrowser"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "projects.Pages.FetchData",
-          "Common.TypeNameIdentifier": "FetchData",
+          "Common.TypeName": "projects.Pages.PizzaBrowser",
+          "Common.TypeNameIdentifier": "PizzaBrowser",
           "Common.TypeNamespace": "projects.Pages",
           "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": -1825375721,
+        "HashCode": 693089672,
         "Kind": "Components.Component",
-        "Name": "projects.Pages.FetchData",
+        "Name": "projects.Pages.PizzaBrowser",
         "AssemblyName": "projects",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "projects.Pages.FetchData"
+            "TagName": "projects.Pages.PizzaBrowser"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "projects.Pages.FetchData",
-          "Common.TypeNameIdentifier": "FetchData",
+          "Common.TypeName": "projects.Pages.PizzaBrowser",
+          "Common.TypeNameIdentifier": "PizzaBrowser",
           "Common.TypeNamespace": "projects.Pages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
@@ -18826,6 +18863,11 @@
       "FilePath": "c:\\Users\\lucas\\projects\\Pages\\_Layout.cshtml",
       "TargetPath": "Pages\\_Layout.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\lucas\\projects\\Pages\\PizzaBrowser.razor",
+      "TargetPath": "Pages\\PizzaBrowser.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "c:\\Users\\lucas\\projects\\Pages\\Error.cshtml",

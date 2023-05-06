@@ -9,57 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = projects
 build_property.RootNamespace = projects
-build_property.ProjectDir = C:\Users\lucas\projects\
+build_property.ProjectDir = c:\Users\lucas\projects\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\lucas\projects
+build_property.MSBuildProjectDirectory = c:\Users\lucas\projects
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/lucas/projects/App.razor]
-build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/lucas/projects/Pages/Counter.razor]
+[c:/Users/lucas/projects/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lucas/projects/Pages/FetchData.razor]
+[c:/Users/lucas/projects/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lucas/projects/Pages/Index.razor]
+[c:/Users/lucas/projects/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lucas/projects/Pages/Todo.razor]
+[c:/Users/lucas/projects/Pages/PizzaBrowser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emFCcm93c2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/lucas/projects/Pages/Todo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lucas/projects/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+[c:/Users/lucas/projects/Setup/App.razor]
+build_metadata.AdditionalFiles.TargetPath = U2V0dXBcQXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lucas/projects/_Imports.razor]
-build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+[c:/Users/lucas/projects/Setup/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2V0dXBcU2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lucas/projects/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-mgmm2ddh3w
+[c:/Users/lucas/projects/Setup/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = U2V0dXBcX0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lucas/projects/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-78d9pt0lgo
+[c:/Users/lucas/projects/Setup/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2V0dXBcU2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ron1as8zxg
 
-[C:/Users/lucas/projects/Pages/Error.cshtml]
+[c:/Users/lucas/projects/Setup/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2V0dXBcU2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-67hc04n2n8
+
+[c:/Users/lucas/projects/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lucas/projects/Pages/_Host.cshtml]
+[c:/Users/lucas/projects/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lucas/projects/Pages/_Layout.cshtml]
+[c:/Users/lucas/projects/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
