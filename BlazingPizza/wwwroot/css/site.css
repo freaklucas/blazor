@@ -58,6 +58,8 @@ form {
     padding: 1.5rem !important;
 }
 
+
+
 .nav-tab {
     margin: 0;
     padding: 0.3rem 1.8rem;
@@ -139,7 +141,7 @@ form {
         padding: 0;
     }
 
-.pizza-cards {
+.pizza-cards, drink-cards {
     display: grid;
     grid-template-columns: repeat(auto-fill, 20rem);
     grid-gap: 2rem;
@@ -160,7 +162,6 @@ form {
         .pizza-cards > li:hover {
             transform: scale(1.02);
         }
-
 .pizza-info {
     border-radius: 0.5rem;
     top: 0;
@@ -756,3 +757,15 @@ input[type=range] {
         transform: translateX(500px);
     }
 }
+
+.drink {
+    margin-bottom: 4rem;
+}
+
+.drink-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 2rem;
+}   

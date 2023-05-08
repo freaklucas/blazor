@@ -1,0 +1,62 @@
+@page "/drinks"
+@using DrinksPizzaria;
+
+<section class="drink-section">
+  <NavLink href="/" class="btn btn-success drink">
+      Click to index
+  </NavLink>
+  <h2>Drinks</h2>
+  <div class="content">
+    <ul class="drink-cards">
+      @if (drinks!=null) {
+        @foreach (var item in drinks) {
+          <h1 class="title">@item.Name</h1>
+          <h2 class="price">@item.Value</h2>
+        }
+      }
+    </ul>
+    <ul class="drink-cards">
+      @if (liquidNonAlcool!=null) {
+        @foreach (var item in liquidNonAlcool) {
+          <h1 class="title">@item.Name</h1>
+          <h2 class="price">@item.Value</h2>
+        }
+      }
+    </ul>
+    <ul class="drink-cards">
+      @if (condiments!=null) {
+        @foreach (var item in condiments) {
+          <h1 class="title">@item.Name</h1>
+          <h2 class="price">@item.Weight</h2>
+        }
+      }
+    </ul>
+  </div>
+</section>
+
+  @code {
+    List<Drinks> drinks = new();
+    List<Drinks> liquidNonAlcool = new();
+    List<Drinks> condiments = new();
+    
+    protected override void OnInitialized() {
+      drinks.AddRange(new List<Drinks> {
+        new Drinks { Value=20, Name="Caipirinha"},
+        new Drinks { Value=30, Name="Cerveja Artesanal"},
+        new Drinks { Value=250, Name="Whisky 90 anos"},
+
+      });
+      liquidNonAlcool.AddRange(new List<Drinks> {
+        new Drinks { Value=2, Name="H20"},
+        new Drinks { Value=5, Name="Secret Juice"},
+        new Drinks { Value=9, Name="Limon aqua"}
+      });
+      condiments.AddRange(new List <Drinks> {
+        new Drinks { Weight=10, Name="Milk"},
+        new Drinks { Weight=12, Name="Ice"},
+        new Drinks { Weight=4, Name="Essence"},
+    });
+
+  }
+}
+
