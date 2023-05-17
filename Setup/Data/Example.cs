@@ -50,7 +50,7 @@ namespace Classes3 {
 
 namespace ExampleComplete {
     public class Elements {
-        public  static void Main() {
+         public static void Run() {
             People pessoa = new People();
             pessoa.Name = "João";
             pessoa.Age = 20;

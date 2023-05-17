@@ -10,3 +10,12 @@ Welcome to your new app.
 <Counter IncrementAmount="20" />
 
 <SurveyPrompt Title="How is Blazor working for you?" />
+
+<button @onclick="RunElements">Run Elements</button>
+
+
+@code {
+  private void RunElements () {
+    Elements.Run();
+  }
+}
