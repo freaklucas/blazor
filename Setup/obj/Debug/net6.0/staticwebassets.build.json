@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qxa+eRWt6p8Fho8PrCvgg27qs8pwa5E/qWAlqlE3ctw=",
+  "Hash": "OdwvIaln8bbJDctMM/ADOn7S3Sv9JkdH0a8NP0tLtKk=",
   "Source": "projects",
   "BasePath": "_content/projects",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "projects\\wwwroot",
       "Source": "projects",
-      "ContentRoot": "C:\\Users\\lucas\\projects\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\",
       "BasePath": "_content/projects",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\lucas\\projects\\obj\\Debug\\net6.0\\scopedcss\\bundle\\projects.styles.css",
+      "Identity": "C:\\Users\\lucas\\projects\\Setup\\obj\\Debug\\net6.0\\scopedcss\\bundle\\projects.styles.css",
       "SourceId": "projects",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\lucas\\projects\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\lucas\\projects\\Setup\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/projects",
       "RelativePath": "projects.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\lucas\\projects\\obj\\Debug\\net6.0\\scopedcss\\bundle\\projects.styles.css"
+      "OriginalItemSpec": "C:\\Users\\lucas\\projects\\Setup\\obj\\Debug\\net6.0\\scopedcss\\bundle\\projects.styles.css"
     },
     {
-      "Identity": "C:\\Users\\lucas\\projects\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\projects.bundle.scp.css",
+      "Identity": "C:\\Users\\lucas\\projects\\Setup\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\projects.bundle.scp.css",
       "SourceId": "projects",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\lucas\\projects\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\lucas\\projects\\Setup\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/projects",
       "RelativePath": "projects.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\lucas\\projects\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\projects.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\lucas\\projects\\Setup\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\projects.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\lucas\\projects\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "projects",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lucas\\projects\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\",
       "BasePath": "_content/projects",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\lucas\\projects\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "projects",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lucas\\projects\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\",
       "BasePath": "_content/projects",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lucas\\projects\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "projects",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lucas\\projects\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\",
       "BasePath": "_content/projects",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\lucas\\projects\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "projects",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lucas\\projects\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\",
       "BasePath": "_content/projects",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\lucas\\projects\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "projects",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lucas\\projects\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\",
       "BasePath": "_content/projects",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\lucas\\projects\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "projects",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lucas\\projects\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\",
       "BasePath": "_content/projects",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\lucas\\projects\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "projects",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lucas\\projects\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\",
       "BasePath": "_content/projects",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\lucas\\projects\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "projects",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lucas\\projects\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\",
       "BasePath": "_content/projects",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\lucas\\projects\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "projects",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lucas\\projects\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\",
       "BasePath": "_content/projects",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\lucas\\projects\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "projects",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lucas\\projects\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\",
       "BasePath": "_content/projects",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\lucas\\projects\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "projects",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lucas\\projects\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\",
       "BasePath": "_content/projects",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\lucas\\projects\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\css\\site.css",
       "SourceId": "projects",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lucas\\projects\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\",
       "BasePath": "_content/projects",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\lucas\\projects\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\favicon.ico",
       "SourceId": "projects",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lucas\\projects\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lucas\\projects\\Setup\\wwwroot\\",
       "BasePath": "_content/projects",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

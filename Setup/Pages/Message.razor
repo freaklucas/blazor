@@ -1,0 +1,14 @@
+@page "/message"
+
+<PageTitle>Message</PageTitle>
+
+<h3>@message</h3>
+
+
+@code {
+  string message = "Ol´a";
+
+  protected override void OnInitialized() {
+    message = "nova!";
+  }
+}
